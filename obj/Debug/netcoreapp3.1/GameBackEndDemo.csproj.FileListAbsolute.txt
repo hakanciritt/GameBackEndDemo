@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.exe
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.deps.json
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.runtimeconfig.json
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.dll
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\bin\Debug\netcoreapp3.1\GameBackEndDemo.pdb
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.AssemblyInfo.cs
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.dll
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.pdb
+C:\Users\hakan\source\repos\GameBackEndDemo\GameBackEndDemo\obj\Debug\netcoreapp3.1\GameBackEndDemo.genruntimeconfig.cache
